@@ -106,4 +106,8 @@ struct Graph<> {
 };
 
 
+
+
+
+
 #endif /// MEANWHILE_IN_THE_SEVENTH_GALAXY_THIRD_VARIANT_GRAPH_H.
